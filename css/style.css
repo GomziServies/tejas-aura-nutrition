@@ -7509,3 +7509,20 @@ body.search-visible {
 .order__info-wrap p a {
   text-decoration: underline;
 }
+.size-button {
+  background-color: #f5ffed;         
+  border: 2px dashed #58813b;        
+  border-radius: 7px;               
+  color: #212529;                    
+  padding: 8px 17px;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  margin-top: 5px;
+  display: inline-block;
+}
+.selected {
+  background-color: #58813b;   
+  border: 2px solid #58813b;  
+  color: #fff !important;                 
+}
